@@ -6,4 +6,3 @@ Material de curso de posgrado de experimentación y métodos estadísticos
 - semana 1: Introduccion
 - semana 2: Creacion de repositorio Github
 - semana 3: proxima semana
-
