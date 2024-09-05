@@ -6,13 +6,13 @@ summary(profepa)
 
 mean(profepa$Inspección)
 
-ins <- subset(profepa$Inspección >= mean(profepa$Inspección)
+ins <- subset(profepa, profepa$Inspección >= mean(profepa$Inspección))
 
-bajo <- subset(profepa, profepa$Inspección <= mean(profepa$Inspección)
+bajo <- subset(profepa, profepa$Inspección <= mean(profepa$Inspección))
             
 cero <- subset(profepa, profepa$Inspección == 0)
 
-todos <- subest(profepa, profepa$Inspección !=0)
+todos <- subset(profepa, profepa$Inspección !=0)
 
 # Descarga de sitios seguros ----------------------------------------------
 
@@ -44,7 +44,6 @@ bartlett.test(SpFH$Diametro, SpFH$Especie)
 
 t.test(SpFH$Diametro ~ SpFH$Especie, var.equal = TRUE)
 
-
 # Prueba de t de una muestra ----------------------------------------------
 
 t.test(conjunto$Diametro, mu = 16.4)
@@ -55,3 +54,4 @@ boxplot(prod$Kgsem ~ prod$Tiempo)
 
 t.test(prod$Kgsem ~ prod$Tiempo, paired = T)
 tapply(prod$Kgsem, prod$Tiempo, mean)
+
