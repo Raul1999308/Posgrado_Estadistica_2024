@@ -1,10 +1,10 @@
-# Posgrado Estadistica 2024
+# Posgrado Estadística 2024
 Material de curso de posgrado de experimentación y métodos estadísticos
 
-## contenido
+## Contenido
 
-- semana 1: Introduccion sobre el curso de "Expirementacion y Metodos Estadisticos"
-- semana 2: Creacion de repositorio Github
-- semana 3: (proxima semana)
-- Semana 4: Explicacion de las pruebas de estadisticas como normalidad, en la que destacan kolmogoro, shapiro y wilkings y explicacion de hipotesis nula y alternativa. 
-- Semana 5: Elaboracion de laboratorio N°.3 y tarea N°1
+- Semana 1: Introducción sobre el curso de "Experimentación y Métodos Estadísticos".
+- Semana 2: Creación de repositorio de GitHub y conexión con Estudio.
+- Semana 3: (próxima semana)
+- Semana 4: Explicación de las pruebas de estadísticas como normalidad, en la que destacan kolmogoro, shapiro y wilkings y explicación de hipótesis nula y alternativa. 
+- Semana 5: Elaboración de laboratorio N°3 y tarea N°1.
