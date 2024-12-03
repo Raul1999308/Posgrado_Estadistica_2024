@@ -11,3 +11,6 @@ Material de curso de posgrado de experimentación y métodos estadísticos
 - Semana 6: Elaboracion de ejercicio Datos madera, como implementar la normalidad y homogenidad de varianza.
 - Semana 7: Elaboracion de laboratorio N°4 Datos de Correlacion.
 - Semana 8: Primer examen practico utilizando el programa RStudio.
+
+![image](https://github.com/user-attachments/assets/c3b218e4-c870-4fb2-be95-761f4bccbbed)
+![image](https://github.com/user-attachments/assets/1bfe6652-60b2-4c42-8d4c-a9fb744809b7)
